@@ -20,6 +20,8 @@ This application is a design clock.
 The application is a simple java project and it was edited in NetBeans.
 So, the project is a NetBeans project.
 
+# &nbsp;
+<br>
 <p align="center">
     <sup>
         <strong>Information about me on </strong>
