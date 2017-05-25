@@ -13,7 +13,7 @@
 
 This application is a design clock. 
 * The widget start after the click on clock icon. 
-* The widget stop after the 3 click on the widget.
+* The widget stop after the 2 click on the widget.
 
 ## Construction
 
