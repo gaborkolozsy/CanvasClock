@@ -1,10 +1,10 @@
 # CanvasClock - Design clock with JavaFx
 
-## Screenshot
+## GIF
 
 ## Table of Contents
 
-* [Screenshot](#screenshot)
+* [GIF](#gif)
 * [Description](#description)
 * [Construction](#construction)
 * [License](LICENSE.txt)
