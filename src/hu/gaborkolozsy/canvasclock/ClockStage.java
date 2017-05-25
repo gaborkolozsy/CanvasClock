@@ -10,7 +10,7 @@ import javafx.stage.WindowEvent;
 /**
  * Design clock stage.
  * 
- * @author Kolozsy Gábor
+ * @author Gabor Kolozsy (gabor.kolozsy.development@gmail.com)
  * @since 1.0.0
  * @see Point2D
  * @see Group
