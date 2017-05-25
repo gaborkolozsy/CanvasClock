@@ -90,11 +90,11 @@ public final class ClockStage extends Stage {
     }
     
     /**
-     * Close the design clock after 3 click on it.
+     * Close the design clock after 2 click on it.
      */
     private void closeByClick() {
         root.setOnMouseClicked(me -> {
-            if (me.getClickCount() == 3) {
+            if (me.getClickCount() == 2) {
                 close();
             }
         });
