@@ -2,6 +2,8 @@
 
 ## GIF
 
+![CancasClock GIF](https://cloud.githubusercontent.com/assets/23102020/26442441/caa08f42-4134-11e7-9242-12a45a2ffd72.gif)
+
 ## Table of Contents
 
 * [GIF](#gif)
