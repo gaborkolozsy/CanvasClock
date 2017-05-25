@@ -11,7 +11,7 @@ import javafx.scene.shape.SVGPath;
 /**
  * Application containers can have icons to assist in the launching of widgets.
  *
- * @author Kolozsy Gábor
+ * @author Gabor Kolozsy (gabor.kolozsy.development@gmail.com)
  * @since 1.0.0
  * @see Pos
  * @see CacheHint
